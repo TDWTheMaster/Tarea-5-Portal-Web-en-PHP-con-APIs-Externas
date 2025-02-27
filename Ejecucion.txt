@@ -1,0 +1,2 @@
+Simplemente con
+php -S localhost:2525
